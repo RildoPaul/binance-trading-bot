@@ -1,0 +1,7 @@
+What is the Heroku?
+I made the React project by docker.
+Can I deploy the React project to Heroku that involves React, MongoDB and Python?
+
+Yes.
+What kind of data does you need to conduct this operate, the data of code, the enviroment data?
+I need the detailed explain and the concrete example in window.
